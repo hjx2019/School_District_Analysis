@@ -100,11 +100,11 @@ When the 9th graders' scores are removed, average scores of Thomas High school d
   - 9th grade has isolated data as Nan, no impact on other groups.
 
 * Scores by school spending / school size / school type
-  - these 3 table are calculated from the modified School summary data, so there's no effect on the result.
-  - if we don't modify the school summary data, the passing rates in THS will always be lower than the actual.
+  - these 3 tables are calculated from the modified _School summary data_, so there's no effect on the result.
+  - if we don't modify the _school summary data_, the _passing percentages_ in _Thomas High School_ will always be lower than the actual.
   - additionally, as a suggestion, _weighted-average (on school size)_ should be used instead of _average_ in these 3 values' calculation.
 
 
 ### Summary
 
-There's no effect on the the result.
+There's no effect on the result.
