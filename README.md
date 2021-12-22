@@ -1,6 +1,4 @@
-# School_District_Analysis
-
-> Data Analysis Boot Camp in UofT, Challenge4, by Jiaxin Hao (Joshua)
+# School District Analysis
 
 ## Overview of the school district analysis
 
